@@ -1,0 +1,8 @@
+{
+  "stalker_ambient": { "sounds": [ "duskhorror:stalker/ambient" ] },
+  "stalker_scare": { "sounds": [ "duskhorror:stalker/scare" ] },
+  "whisper_1": { "sounds": [ "duskhorror:ambient/whisper1" ] },
+  "whisper_2": { "sounds": [ "duskhorror:ambient/whisper2" ] },
+  "distant_scream": { "sounds": [ "duskhorror:ambient/scream" ] },
+  "heartbeat": { "sounds": [ "duskhorror:ambient/heartbeat" ] }
+}

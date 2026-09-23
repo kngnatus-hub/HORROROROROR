@@ -1,0 +1,28 @@
+{
+  "temperature": 0.5,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 0,
+    "fog_color": 1447446,
+    "water_color": 2170,
+    "water_fog_color": 2170,
+    "grass_color": 1775477,
+    "foliage_color": 1775477,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 100,
+      "block_search_extent": 8,
+      "offset": 2.0
+    }
+  },
+  "spawners": {
+    "monster": [
+      { "type": "duskhorror:stalker", "weight": 100, "minCount": 1, "maxCount": 1 },
+      { "type": "minecraft:zombie", "weight": 20, "minCount": 1, "maxCount": 2 }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [[],[],[],[],[],[],[],[],[],[],[]]
+}

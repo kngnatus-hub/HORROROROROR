@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SLS",
+    "SSS"
+  ],
+  "key": {
+    "S": { "item": "duskhorror:corrupted_shard" },
+    "L": { "item": "minecraft:lantern" }
+  },
+  "result": {
+    "item": "duskhorror:warding_lantern",
+    "count": 1
+  }
+}

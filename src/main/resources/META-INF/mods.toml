@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/"
+
+[[mods]]
+modId="duskhorror"
+version="1.0.0"
+displayName="Dusk Horror"
+description='''
+A horror-themed Forge mod: a stalking mob that freezes when watched,
+a fear meter that drives ambient scares and jumpscares, and a corrupted
+dimension called the Hollow reachable via the Whispering Amulet.
+'''
+authors="You"
+
+[[dependencies.duskhorror]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.duskhorror]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.20.2)"
+    ordering="NONE"
+    side="BOTH"
